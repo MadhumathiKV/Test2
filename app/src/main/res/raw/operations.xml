@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<operations>
+	<operation>
+		<operator>Add</operator>
+		<class>test.smart.rmkv.addsub.AddSubtract</class>
+		<method>add</method>	
+		<interface>Calculator</interface>
+		<arg1>1</arg1>
+		<arg2>6</arg2>
+	</operation>
+	<operation>
+		<operator>Subtract</operator>
+		<class>test.smart.rmkv.addsub.AddSubtract</class>
+		<method>subtract</method>
+		<interface>Calculator</interface>
+		<arg1>10</arg1>
+		<arg2>60</arg2>
+	</operation>
+	<operation>
+		<operator>Multiply</operator>
+		<class>test.smart.rmkv.multdiv.MultDivide</class>
+		<method>multiply</method>
+		<interface>Calculator1</interface>
+		<arg1>50</arg1>
+		<arg2>60</arg2>
+	</operation>
+	<operation>
+		<operator>Divide</operator>
+		<class>test.smart.rmkv.multdiv.MultDivide</class>
+		<method>divide</method>
+		<interface>Calculator1</interface>
+		<arg1>60</arg1>
+		<arg2>15</arg2>
+	</operation>
+</operations>			

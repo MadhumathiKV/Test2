@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="calc_result">Result of the Calculation from the xml file </string>
+</resources>
